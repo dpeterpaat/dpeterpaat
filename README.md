@@ -18,10 +18,7 @@ So basically what I do is I layout a bunch of rectangles and name it as UI, navi
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   
 <br>
-<br>
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpeterpaat)](https://github.com/dpeterpaat/github-readme-stats)
 
 
 ##
